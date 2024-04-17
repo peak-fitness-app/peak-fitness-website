@@ -18,8 +18,7 @@ export default function Home() {
             <p>Native Android & iOS mobile application</p>
             <p>Application In Development</p>
             <a href="https://github.com/peak-fitness-app">
-                <FiGithub />
-                GitHub
+                <FiGithub size={50} style={{ marginTop: 20 }} />
             </a>
         </main>
     );
